@@ -1,0 +1,10 @@
+Latte,A creamy coffee drink,5.00,Beverage
+Coffee,Black coffee with a bold flavor,3.00,Beverage
+Bagel,A fresh bagel with cream cheese,2.50,Bakery
+Espresso,Strong and rich coffee,4.00,Beverage
+Muffin,Blueberry muffin with a crumbly top,2.75,Bakery
+Doughnut,Creamy food,12.00,Food
+Pizza,Finger licking good,5.00,Pizza
+Tea,Premium Ceylon Tea,4.50,Drinks
+,,3.00,3
+Donut,Sweety Dweety Donuts,6.00,Sweets
